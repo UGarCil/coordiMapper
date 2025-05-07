@@ -1,0 +1,44 @@
+{
+    "locations": [
+        {
+            "district": "Toronto District",
+            "schools": [
+                "John Fisher Junior Public",
+                "Davisville Junior Public",
+                "Oriole Park Junior Public",
+                "Forest Hill Junior and Senior Public",
+                "Allenby Junior Public"
+            ]
+        },
+        {
+            "district": "Peel District",
+            "schools": [
+                "Castlebridge Public",
+                "Ruth Thompson Middle",
+                "Whitehorn Public",
+                "Hazel McCallion Senior Public",
+                "Fallingbrook Middle"
+            ]
+        },
+        {
+            "district": "York Region District",
+            "schools": [
+                "Bayview Hill Elementary",
+                "Buttonville Public",
+                "Castlemore Public",
+                "Donald Cousens Public",
+                "Fred Varley Public"
+            ]
+        },
+        {
+            "district": "Halton District",
+            "schools": [
+                "Sam Sherratt Public",
+                "Hawthorne Village Public",
+                "Pilgrim Wood Public",
+                "Palermo Public",
+                "Irma Coulson Public School"
+            ]
+        }
+    ]
+}
